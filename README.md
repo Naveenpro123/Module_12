@@ -1,7 +1,7 @@
-# Subashree-A-19CS301-Module12
+# Module 12
 
-### Register No - 212222020029
-### Name - Subashree A
+### Register No - 212222050039
+### Name - Naveen P
 
 # ExNo: 12.1 Stack using linked list (Display, Peek and Pop)
 ### Aim: To Type and display the elements pushed in stack using python.
